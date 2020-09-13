@@ -1,4 +1,4 @@
-### Hi, I'm Erik ###
+### Hi, I'm Erik 🧗‍♂️ ###
 
 ## Creative developer with a diverse skillset ##
 - 📈 Data visualizing
