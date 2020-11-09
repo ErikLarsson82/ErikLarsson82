@@ -12,6 +12,7 @@
 - ⚽🏎️💨 Rocket Leauge Grand Champion
 - 🚁 FPV Drone Pilot
 - 🖌️ Painter of Minis
+- 👦👦👧 Proud father of three awesome kids
 
 ## Here are some of my favorite projects you should check out ##
 - Rubiks Cube solver using Machine Learning / Website
