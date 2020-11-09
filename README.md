@@ -7,6 +7,12 @@
 - 👌 Functional Programmer
 - 🎨 Designer and Artist
 
+## A chill dude ##
+- 🧗‍♂️ Climbing beast
+- ⚽🏎️💨 Rocket Leauge Grand Champion
+- 🚁 FPV Drone Pilot
+- 🖌️ Painter of Minis
+
 ## Here are some of my favorite projects you should check out ##
 - Rubiks Cube solver using Machine Learning / Website
 - Push-Bot / Game for web and mobile
